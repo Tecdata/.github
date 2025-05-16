@@ -2,7 +2,7 @@
 name: 🔍 Spike
 about: Investigación técnica o exploratoria
 title: "[SPIKE] "
-labels: [spike]
+labels: [experimento]
 assignees: []
 ---
 
