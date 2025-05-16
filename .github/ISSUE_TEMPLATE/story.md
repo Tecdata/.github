@@ -2,7 +2,7 @@
 name: Historia
 about: Un requerimiento funcional que puede completarse en un sprint
 title: "[STORY] "
-labels: []
+labels: [historia]
 assignees: []
 ---
 
