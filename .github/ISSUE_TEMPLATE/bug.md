@@ -3,6 +3,7 @@ name: 🐛 Bug
 about: Reportar un error o comportamiento inesperado
 title: "[Bug]: "
 labels: [bug]
+type: Bug
 ---
 
 ## Comportamiento actual
