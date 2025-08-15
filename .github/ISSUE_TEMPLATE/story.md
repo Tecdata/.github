@@ -1,9 +1,7 @@
 ---
 name: Historia
 about: Un requerimiento funcional que puede completarse en un sprint
-title: "[STORY] "
 labels: [historia]
-assignees: []
 ---
 
 ## Historia
@@ -14,8 +12,5 @@ assignees: []
 
 ## Criterios de Aceptación
 
-- [ ] Criterio 1
-- [ ] Criterio 2
-- [ ] Criterio 3
-
-## Consideraciones
+- Criterio 1
+- Criterio 2
