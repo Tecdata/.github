@@ -1,10 +1,8 @@
 ---
 name: 🐛 Bug
 about: Reportar un error o comportamiento inesperado
-title: "[BUG] "
+title: "[Bug]: "
 labels: [bug]
-assignees: []
-
 ---
 
 ## Comportamiento actual
