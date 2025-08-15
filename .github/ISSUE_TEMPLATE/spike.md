@@ -1,9 +1,9 @@
 ---
 name: 🔍 Spike
 about: Investigación técnica o exploratoria
-title: "[SPIKE] "
+title: ""
 labels: [experimento]
-assignees: []
+type: Spike
 ---
 
 ## Problema a investigar
