@@ -1,21 +1,15 @@
 ---
 name: 🛠️ Task
 about: Tarea específica técnica o no funcional
-title: "[TASK] "
+title: ""
 labels: [tarea]
-assignees: []
-
+type: Task
 ---
 
 ## Descripción
 
 Explicá la tarea a realizar, de forma breve.
 
-## Checklist
-
-- [ ] Subtarea 1
-- [ ] Subtarea 2
-
 ## Contexto
 
-- Issue relacionado: #123
+<!-- - Issue relacionado: #123 -->
